@@ -1,4 +1,5 @@
-You can find my latest code sample of wrapping Ngspice [here](https://github.com/JuliaComputing/Ngspice.jl).
+#### You can find my latest code sample and recent work of wrapping Ngspice [here](https://github.com/JuliaComputing/Ngspice.jl).
+---
 
 Udacity's "Computer Vision Nanodegree"  included lessons and quizzes on CNN, RNN, LSTMs, Attention mechanism, (Graph) SLAM, and among other techniques. And, it required us to pass the review of 3 capstone projects in Pytorch to <a href="https://confirm.udacity.com/9QK9JDSF">graduate</a>.
 
